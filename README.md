@@ -4,5 +4,5 @@ A website on the city of montreal canada which provides information for American
 # Contributors
 Nagachandra Kambathalli Parswanatha
 
-Synopsis
+## Synopsis
 Website built using only XHTML, strict DTD and CSS which is designed to master basic web page development skills.
